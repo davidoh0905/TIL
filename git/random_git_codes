@@ -1,0 +1,8 @@
+git add --all
+
+
+git commit -m "ADPD-1234"
+
+
+
+git push origin ADPD-1234
