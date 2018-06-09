@@ -14,5 +14,6 @@ YouTube Video :
 
 <h2>How Bayes Theorem helps us to look at evidences</h2>
 - Bayes' Rule is a formalization of how to change your mind when you learn new information about the world or have new experiences.
+
 YouTube Video :
 [Julia Galef: Think Rationally via Bayes' Rule](https://www.youtube.com/watch?v=NEqHML98RgU)
