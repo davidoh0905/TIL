@@ -1,4 +1,4 @@
-A very beginner's introduction to how bayes theorem works
+<h1>A very beginner's introduction to how bayes theorem works</h1>
 - with example of what a positive result from a disease detection actually means.
 
 YouTube Video : 
