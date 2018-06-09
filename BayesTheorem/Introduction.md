@@ -8,5 +8,6 @@ YouTube Video :
 
 <h2>An Application of Bayes Theorem to Rationality</h2>
 - application to philosophy of science
+
 YouTube Video : 
 [CRITICAL THINKING - Fundamentals: Bayes' Theorem](https://www.youtube.com/watch?v=OqmJhPQYRc8)
