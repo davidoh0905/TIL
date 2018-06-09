@@ -17,3 +17,18 @@ YouTube Video :
 
 YouTube Video :
 [Julia Galef: Think Rationally via Bayes' Rule](https://www.youtube.com/watch?v=NEqHML98RgU)
+
+<h3>Subjective/Objective Bayesianism<h3>
+- a very quick and simple introduction to what subjective and objective bayesianism is. 
+- not a lot of information. just a simple definition
+
+YouTube Video :
+[Variations of Bayesianism](https://www.youtube.com/watch?v=JsCyAPFNbYk)
+
+<h3>Bayesian Confirmation/Disconfirmation with example<h3>
+- Okayish explanation
+
+YouTube Video :
+[Confirmation and Disconfirmation](https://www.youtube.com/watch?v=22mxFtLkVvU&list=PLz0n_SjOttTdIqlgDjdNFfLUFVrl5j1J4&index=7)
+
+
