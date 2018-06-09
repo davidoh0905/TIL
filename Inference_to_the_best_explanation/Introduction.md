@@ -1,0 +1,1 @@
+Any argument that is not deductively valid, or deductively invalid, is called an <b>ampliative argument</b>. The term refers to the fact that the conclusion of such argument goes beyond, or amplifies upon, the premises.
