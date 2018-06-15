@@ -6,3 +6,6 @@ git commit -m "ADPD-1234"
 
 
 git push origin ADPD-1234
+
+-- this recursively deltes .DS_Store files
+find . -name '.DS_Store' -type f -delete
