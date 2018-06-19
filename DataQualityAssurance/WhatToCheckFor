@@ -1,0 +1,3 @@
+show partitions
+
+HOW PARTITIONS table_name PARTITION(ds='2010-03-03');   
