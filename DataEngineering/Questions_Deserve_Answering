@@ -1,0 +1,26 @@
+Initial Exploration
+- What is the Question that I am trying to answer?
+- What kind of Data do I have?
+  - Where do the data features that are seemingly the same type coming from?
+  - are those data actually compatible?
+  - how to massage the data into a consolidated format?
+    - ex ) date format / some fields have different naming conventions (which sometimes makes things near impossible to merge)
+    - sometimes this gets super tricky to deal with especially when data becomes very large. a single query can take very long
+    - comparing two tables
+    - 
+- Creating the SQL Script
+  - pure SQL
+    - start from the base table
+    - resolve the entity
+      - decide the granularity of the table and do the correct group by
+      - be aware of the consequences of the group by
+        - the detailed feature might not be a single value by multiple reasons
+          - why entailed fatures are not distinct by entity group by?
+            - data collection for the entailed features might have failed
+              ex ) device_os, geo lat, geo lon, city, device graphic card, cumumlative count.. these can be missing
+              - considering the data collection strategy of the original features, we need to decide how to consolidate the features.
+              - for example, if we know that the device_os should not change because device_id represents hashed information about the device_os, we can be rest assured that selecting any value of device_os when grouping by device_id is an acceptable entailed feature collapsing strategy
+              - device_id, MAX(device_os_name) group by device_id
+            - certain user might have connected from two different countries within a single partition duration of time
+              - 
+       
